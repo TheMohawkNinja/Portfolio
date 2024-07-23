@@ -15,7 +15,7 @@ Below is a listing of languages that I am proficient with, including associated 
 
 - Linux utility to to replicate the desktop wallpaper fade transition available in Windows 10.
 
-[winrun](https://github.com/TheMohawkNinja/winrun)
+[winrun](https://github.com/TheMohawkNinja/winrun) and 
 [winrun_svr](https://github.com/TheMohawkNinja/winrun_svr)
 
 - A server/client pair of multi-threaded programs designed to allow easy execution of commands from a Linux terminal to a Windows machine on the LAN. In essence, it is a multi-threaded rsh.
