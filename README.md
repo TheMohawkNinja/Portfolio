@@ -22,7 +22,9 @@ A server/client pair of multi-threaded programs designed to allow easy execution
 
 ## Deluge
 
-UNDER CONSTRUCTION
+[Integration of PasswordState API in ServiceDesk Plus](https://github.com/TheMohawkNinja/SDP_PS_Integration/tree/master)
+
+In order to have an actively updating record of the rotating local admin passwords in ServiceDesk Plus, I have integrated the PasswordState API into ServiceDesk Plus using Deluge in order to insert permalinks to a PasswordState environment into the respective asset entry in ServiceDesk Plus. This neccessitated a novel approach to circumventing Deluge's limitation of only having access to a `foreach` looping structure.
 
 ## LaTeX
 
