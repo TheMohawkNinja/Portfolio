@@ -18,7 +18,7 @@ Below is a listing of languages that I am proficient with, including associated 
 [winrun](https://github.com/TheMohawkNinja/winrun) and 
 [winrun_svr](https://github.com/TheMohawkNinja/winrun_svr)
 
-- A server/client pair of multi-threaded programs designed to allow easy execution of commands from a Linux terminal to a Windows machine on the LAN. In essence, it is a multi-threaded rsh.
+- A client/server pair of multi-threaded programs designed to allow easy execution of commands from a Linux terminal to a Windows machine on the LAN. In essence, it is a multi-threaded rsh.
 
 ## Deluge
 
