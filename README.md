@@ -34,7 +34,7 @@ Below is a listing of languages that I am proficient with, including associated 
 
 ## LaTeX
 
-If you are reading this due to having read my resume, that resume was written with LaTeX.
+If you are reading this due to having read my resume, that resume was written in LaTeX.
 
 [rpgsh-docs](https://github.com/TheMohawkNinja/rpgsh-docs)
 
