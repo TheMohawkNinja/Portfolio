@@ -22,13 +22,19 @@ Below is a listing of languages that I am proficient with, including associated 
 
 ## Deluge
 
-[Integration of PasswordState API in ServiceDesk Plus](https://github.com/TheMohawkNinja/SDP_PS_Integration/tree/master)
+[Integration of PasswordState API in ManageEngine ServiceDesk Plus](https://github.com/TheMohawkNinja/SDP_PS_Integration/tree/master)
 
 - In order to have an actively updating record of the rotating local admin passwords in ServiceDesk Plus, I have integrated the PasswordState API into ServiceDesk Plus using Deluge in order to insert permalinks to a PasswordState environment into the respective asset entry in ServiceDesk Plus. This neccessitated a novel approach to circumventing Deluge's limitation of only having access to a `foreach` looping structure.
 
+## HTML/CSS
+
+[0xbd.net](https://www.0xbd.net/)
+
+- Personal website for professional development.
+
 ## LaTeX
 
-If you are reading this due to having read my resume, it was written with LaTeX.
+If you are reading this due to having read my resume, that resume was written with LaTeX.
 
 [rpgsh-docs](https://github.com/TheMohawkNinja/rpgsh-docs)
 
