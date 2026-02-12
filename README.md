@@ -54,7 +54,7 @@ This very GitHub page :)
 
 [Kraken API Demonstration](https://github.com/TheMohawkNinja/kraken_trading_example)
 
-- A (so far failed) attempt at beating the market with high frequency cryptocurrency trading by means of a Python script that interfaces with the Kraken cryptocurrency exchange. The working theory is that by analyzying which cryptocurrencies are starting to trend upwards or downwards at any given time, the script can automatically buy or sell the respective cryptocurrency.
+- An attempt at beating the market with high frequency cryptocurrency trading by means of a Python script that interfaces with the Kraken cryptocurrency exchange API. The working theory is that by analyzying which cryptocurrencies are starting to trend upwards or downwards at any given time, the script can automatically buy or sell the respective cryptocurrency.
 
 ## zsh
 
